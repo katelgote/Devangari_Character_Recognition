@@ -17,6 +17,8 @@ Put in MNIST_data folder
 
 Then run python ladder.py file 
 
+I have saved the pkl file for trained data (5min run time) its 116MB so will share it in Google drive link
+
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Character Recog using basic ML techniques such as random tree random Forest KNN 
