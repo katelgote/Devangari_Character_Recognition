@@ -21,5 +21,7 @@ Then run python ladder.py file
 
 Character Recog using basic ML techniques such as random tree random Forest KNN 
 
+Download Test Train folder of images from https://web.archive.org/web/20160105230017/http://cvresearchnepal.com/wordpress/dhcd/ 
+
 run basic_ML.py 
 
