@@ -4,6 +4,9 @@ For the Character recog using Ladder network from https://arxiv.org/pdf/1507.026
 
 First Download the data set from https://drive.google.com/drive/folders/1MmtCjsh5bWwYeAncIbVJSJ0rYBk20XG2
 
+or from https://web.archive.org/web/20160105230017/http://cvresearchnepal.com/wordpress/dhcd/ 
+Then get any 30 classes of data
+
 run python resize.py file to get 28x28 img from 32x32 
 
 then run python convert_to_mnist_format.py 
