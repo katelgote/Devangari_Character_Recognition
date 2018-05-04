@@ -2,7 +2,7 @@
 
 First Download the data set from https://drive.google.com/drive/folders/1MmtCjsh5bWwYeAncIbVJSJ0rYBk20XG2
 
-run python resize.py file to get 28*28 img from 32*32 
+run python resize.py file to get 28x28 img from 32x32 
 
 then run python convert_to_mnist_format.py 
 read the file for the instructions
