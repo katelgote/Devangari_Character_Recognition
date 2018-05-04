@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Wed Apr 25 17:55:22 2018
-
+Source : https://github.com/rishianand9/devanagari-character-recognition/blob/master/DCRS.ipynb
 @author: Jeet
 """
 
@@ -27,7 +27,7 @@ img_dir = os.path.join(root_dir, 'Train')
 
 pixels = np.array(['pixel_{:04d}'.format(x) for x in range(1024)])
 flag = True
-"""
+
 for char_name in sorted(os.listdir(img_dir)):
     char_dir = os.path.join(img_dir, char_name)
     img_df = pd.DataFrame(columns=pixels)
@@ -43,7 +43,6 @@ for char_name in sorted(os.listdir(img_dir)):
     flag=False
     
     print('=', end='')
-   """ 
   
 df = pd.read_csv('data.csv', header = -1)
 
